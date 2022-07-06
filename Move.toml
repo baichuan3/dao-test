@@ -1,0 +1,10 @@
+[package]
+name = "SbtTest"
+version = "0.0.1"
+
+[addresses]
+StarcoinFramework = "0x1"
+SbtTest = "0x6bfb460477adf9dd0455d3de2fc7f211"
+
+[dependencies]
+StarcoinFramework = { git = "https://github.com/starcoinorg/starcoin-framework.git", rev = "01c84198819310620f2417413c3c800df8292ae5" }

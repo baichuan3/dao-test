@@ -1,0 +1,7 @@
+# macOS Specific ignores
+# General
+.DS_Store
+.AppleDouble
+
+build
+release
